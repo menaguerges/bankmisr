@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BankMisr.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Frontend_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://parabank.parasoft.com/parabank/index.htm</Value>
+    </Setting>
+    <Setting Name="timeToWaitInMinutes" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="toMails" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;mramsis@lavad.app&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Language" Type="Config.Languages" Scope="User">
+      <Value Profile="(Default)">en</Value>
+    </Setting>
+    <Setting Name="RunHeadless" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FireExceptionOnBrowserConsoleErrors" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SENDGRID_API_KEY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">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</Value>
+    </Setting>
+    <Setting Name="FromMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mena.guerges@gmail.com</Value>
+    </Setting>
+    <Setting Name="Backend_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://parabank.parasoft.com/parabank/index.htm</Value>
+    </Setting>
+    <Setting Name="BackendEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mm@mm.com</Value>
+    </Setting>
+    <Setting Name="BackendPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123456</Value>
+    </Setting>
+    <Setting Name="AccountUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">john</Value>
+    </Setting>
+    <Setting Name="AccountPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">demo</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

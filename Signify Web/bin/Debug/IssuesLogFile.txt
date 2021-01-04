@@ -1,0 +1,138 @@
+Date and Time: 12/12/2020 02:07:33
+Browser error(s) in Browser #1:
+http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js 123:531 TypeError: Cannot read property 'selectedOption' of undefined
+    at b.$scope.submit (http://parabank.parasoft.com/parabank/openaccount.htm:147:159)
+    at fn (eval at compile (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:242:306), <anonymous>:4:138)
+    at e (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:66)
+    at b.$eval (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:69)
+    at b.$apply (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:294)
+    at HTMLFormElement.<anonymous> (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:118)
+    at jg (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:40:8)
+    at HTMLFormElement.d (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:39:462)
+
+
+
+Date and Time: 12/12/2020 02:07:49
+Browser error(s) in Browser #1:
+http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js 123:531 TypeError: Cannot read property 'selectedOption' of undefined
+    at b.$scope.submit (http://parabank.parasoft.com/parabank/openaccount.htm:147:159)
+    at fn (eval at compile (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:242:306), <anonymous>:4:138)
+    at e (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:66)
+    at b.$eval (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:69)
+    at b.$apply (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:294)
+    at HTMLFormElement.<anonymous> (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:118)
+    at jg (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:40:8)
+    at HTMLFormElement.d (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:39:462)
+
+
+
+Date and Time: 12/12/2020 02:08:09
+Browser error(s) in Browser #1:
+http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js 123:531 TypeError: Cannot read property 'selectedOption' of undefined
+    at b.$scope.submit (http://parabank.parasoft.com/parabank/openaccount.htm:147:159)
+    at fn (eval at compile (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:242:306), <anonymous>:4:138)
+    at e (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:66)
+    at b.$eval (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:69)
+    at b.$apply (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:294)
+    at HTMLFormElement.<anonymous> (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:118)
+    at jg (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:40:8)
+    at HTMLFormElement.d (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:39:462)
+
+
+
+Date and Time: 12/12/2020 02:08:27
+Browser error(s) in Browser #1:
+http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js 123:531 TypeError: Cannot read property 'selectedOption' of undefined
+    at b.$scope.submit (http://parabank.parasoft.com/parabank/openaccount.htm:147:159)
+    at fn (eval at compile (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:242:306), <anonymous>:4:138)
+    at e (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:66)
+    at b.$eval (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:69)
+    at b.$apply (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:294)
+    at HTMLFormElement.<anonymous> (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:118)
+    at jg (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:40:8)
+    at HTMLFormElement.d (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:39:462)
+
+
+
+Date and Time: 12/12/2020 02:08:47
+Browser error(s) in Browser #1:
+http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js 123:531 TypeError: Cannot read property 'selectedOption' of undefined
+    at b.$scope.submit (http://parabank.parasoft.com/parabank/openaccount.htm:147:159)
+    at fn (eval at compile (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:242:306), <anonymous>:4:138)
+    at e (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:66)
+    at b.$eval (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:69)
+    at b.$apply (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:294)
+    at HTMLFormElement.<anonymous> (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:118)
+    at jg (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:40:8)
+    at HTMLFormElement.d (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:39:462)
+
+
+
+Date and Time: 12/12/2020 02:17:20
+Browser error(s) in Browser #1:
+http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js;jsessionid=B444A057A3A2BE8A656426EC7E1CD1AA - Failed to load resource: net::ERR_CONNECTION_RESET
+http://parabank.parasoft.com/parabank/images/icon2.jpg - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+http://parabank.parasoft.com/parabank/images/footerbg.gif - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+http://parabank.parasoft.com/parabank/images/sky-color-bg.gif - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+http://parabank.parasoft.com/parabank/images/icon4.jpg - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+http://parabank.parasoft.com/parabank/images/contact-normal.gif - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+http://parabank.parasoft.com/parabank/images/aboutus-normal.gif - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+http://parabank.parasoft.com/parabank/images/bullet2-normal.gif - Failed to load resource: net::ERR_NETWORK_CHANGED
+http://parabank.parasoft.com/parabank/images/atmhand.jpg - Failed to load resource: net::ERR_NETWORK_CHANGED
+http://parabank.parasoft.com/parabank/images/bodybg.gif - Failed to load resource: net::ERR_NETWORK_CHANGED
+http://parabank.parasoft.com/parabank/images/button-bgr.png - Failed to load resource: net::ERR_NETWORK_CHANGED
+http://parabank.parasoft.com/parabank/images/bullet-normal.gif - Failed to load resource: net::ERR_NETWORK_CHANGED
+http://parabank.parasoft.com/parabank/images/topbg.gif - Failed to load resource: net::ERR_NETWORK_CHANGED
+http://parabank.parasoft.com/parabank/images/main-bg.gif - Failed to load resource: net::ERR_NETWORK_CHANGED
+http://parabank.parasoft.com/parabank/images/bullet-hover.gif - Failed to load resource: net::ERR_NETWORK_CHANGED
+http://parabank.parasoft.com/parabank/images/home-normal.gif - Failed to load resource: net::ERR_NETWORK_CHANGED
+http://parabank.parasoft.com/parabank/images/header-main.jpg;jsessionid=B444A057A3A2BE8A656426EC7E1CD1AA - Failed to load resource: net::ERR_NETWORK_CHANGED
+
+
+
+Date and Time: 12/12/2020 02:17:48
+Browser error(s) in Browser #1:
+http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js 123:531 TypeError: Cannot read property 'selectedOption' of undefined
+    at b.$scope.submit (http://parabank.parasoft.com/parabank/openaccount.htm:147:159)
+    at fn (eval at compile (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:242:306), <anonymous>:4:138)
+    at e (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:66)
+    at b.$eval (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:69)
+    at b.$apply (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:294)
+    at HTMLFormElement.<anonymous> (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:118)
+    at jg (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:40:8)
+    at HTMLFormElement.d (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:39:462)
+
+
+
+Date and Time: 12/12/2020 02:18:18
+Browser error(s) in Browser #1:
+http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js 123:531 TypeError: Cannot read property 'selectedOption' of undefined
+    at b.$scope.submit (http://parabank.parasoft.com/parabank/openaccount.htm:147:159)
+    at fn (eval at compile (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:242:306), <anonymous>:4:138)
+    at e (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:66)
+    at b.$eval (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:69)
+    at b.$apply (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:294)
+    at HTMLFormElement.<anonymous> (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:118)
+    at jg (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:40:8)
+    at HTMLFormElement.d (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:39:462)
+
+
+
+Date and Time: 12/12/2020 02:19:20
+Browser error(s) in Browser #1:
+http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js 123:531 TypeError: Cannot read property 'selectedOption' of undefined
+    at b.$scope.submit (http://parabank.parasoft.com/parabank/openaccount.htm:147:159)
+    at fn (eval at compile (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:242:306), <anonymous>:4:138)
+    at e (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:66)
+    at b.$eval (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:69)
+    at b.$apply (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:151:294)
+    at HTMLFormElement.<anonymous> (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:288:118)
+    at jg (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:40:8)
+    at HTMLFormElement.d (http://parabank.parasoft.com/parabank/webjars/angularjs/1.6.9/angular.min.js:39:462)
+
+
+
+Date and Time: 12/12/2020 02:56:57
+Exception occurred in function "RefreshPage". Please check attached screenshot: No File Created
+
+
